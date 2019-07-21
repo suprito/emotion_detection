@@ -6,3 +6,8 @@ Accuracy report
 
 
 ![image](https://user-images.githubusercontent.com/53126149/61587656-bd961e00-abab-11e9-8b90-1720294af8a1.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/53126149/61587716-c2a79d00-abac-11e9-8912-b1935033ffe5.png)
