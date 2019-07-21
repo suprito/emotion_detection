@@ -10,11 +10,14 @@ The dataset consist of about 35,000 gray-scale images with 48*48 pixels and are 
 
 # CNN architecture
 
+![image](https://user-images.githubusercontent.com/53126149/61595266-9cb4e380-ac12-11e9-8a7f-150ffed35be8.png)
 
 
 
 
-Below is a accuracy report and the output of the classifier.
+
+
+# Below is a accuracy report 
 
 
 
@@ -22,7 +25,7 @@ Below is a accuracy report and the output of the classifier.
 
 
 
-
+# The output of the classifier
 
 
 
